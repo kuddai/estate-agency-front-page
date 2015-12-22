@@ -17,7 +17,7 @@ balcony: '1'
 windows: 'двор и улица'
 phone: 'нет'
 WC: '1Р'
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
+description: 'Отличный уютный дом с котиками 3 видов, содержание котов включенно в аренду. Домик состоит из разных кондитерских изделий. Злая ведьма идет в подарок'
 ---
 city-map-light-5-sm.png kvartira-moskva-3ya-pryadilnaya-ulica-82189589-1.jpg kvartira-moskva-3ya-pryadilnaya-ulica-82189654-1
 dfdf
