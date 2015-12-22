@@ -16,7 +16,7 @@ balcony: '2'
 windows: 'парк'
 phone: 'нет'
 WC: '2С'
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
+description: 'Продается 1/12 доля в двухкомнатной квартире, для постоянной регистрации (прописки) и возможного проживания. Можно для семьи с ребенком 2/12 доли. Очень хорошая перспектива выкупа других долей или расселения с получением отдельного жилья в этом же районе. Дом в плане под снос до 2018 года. Документы готовы к сделке'
 ---
 city-map-light-5-sm.png kvartira-moskva-3ya-pryadilnaya-ulica-82189589-1.jpg kvartira-moskva-3ya-pryadilnaya-ulica-82189654-1
 dfdf
