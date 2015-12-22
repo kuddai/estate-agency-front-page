@@ -1,19 +1,26 @@
-
-    <footer class="site-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="text-muted">{{ site.data.global.footer_text }}</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-
-    <!-- JavaScript -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="{{ site.data.global.url }}/js/power.js"></script>
-
+    
+    
+    <script>
+      $(document).ready(function() {  
+             //swiping 
+             $("div[id^='aski-carousel']").each(function() {
+                var $current = $(this);
+                $current.swiperight(function() {
+                    $current.carousel('prev'); 
+                });
+                $current.swipeleft(function() {
+                    $current.carousel('next'); 
+                });
+            }); 
+            //expanding
+            $('.offer').each(function() {
+                var $offer = $(this);
+                $offer.on('click', '.more .content a', function() {
+                    $offer.toggleClass('expanded');
+                });
+            });
+        });  
+    </script>
     </body>
+
 </html>
